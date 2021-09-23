@@ -14,4 +14,7 @@ var Federico = {
     },
     funFact: "Debugging: [di:b^g-ing] \n 1. Being the detective in a crime movie where you are also the murderer"
 };
+
+var mail = Federico.filter((gmail) =>  fchavazza@gmail.com  )
+ 
 ```
