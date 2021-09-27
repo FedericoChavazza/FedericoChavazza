@@ -1,3 +1,6 @@
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-chavazza/)](https://www.linkedin.com/in/fabrizio-tessaro/)
+[![](https://img.shields.io/badge/Gmail-fchavazza@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+
 ```js 
 var Federico = {
     code: ["Javascript"],
